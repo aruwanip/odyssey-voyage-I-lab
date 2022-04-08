@@ -2,7 +2,7 @@
 
 Welcome to Voyage I Lab! In this hands-on project we'll take the companion app of Odyssey Voyage I, FlyBy, and update it to use Apollo Federation v2! You can find the [course lessons and instructions in Odyssey](https://odyssey.apollographql.com/voyage-i-lab), Apollo's learning platform.
 
-TODO: You can [preview the completed demo app here](https://odyssey-flyby-lab.netlify.app/).
+You can [preview the completed demo app here](https://odyssey-flyby-lab.netlify.app/).
 
 ## How to use this repo
 
